@@ -62,7 +62,7 @@ An excellent blog post that looks at just this issue, with netty, is:
 
 [Instant Netty Startup using GraalVM Native Image Generation](https://medium.com/graalvm/instant-netty-startup-using-graalvm-native-image-generation-ed6f14ff7692)
 
-## A ore Complete Example
+## A More Complete Example
 
 The github repo below was developed outside of Oracle, but shows a fairly complete, if simple, GraalVM + Micronaut example. The app supports talking to a DB, grafana etc.
 
